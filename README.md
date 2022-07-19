@@ -4,5 +4,7 @@ Training model in this paper  [onedrive](https://1drv.ms/u/s!AsGTIFMUZhECghnJXeT
 
 ## visualization
 ### visualization on LineMod  
+![\LineMod ](/visualization/LineMod.png) </br>
 a) represent input image, b),c),d) respectively represent key points, edge vectors between key points and symmetric correspondence between pixels  
 ### visualization on Occlusion LineMod  
+![OcclusionLineMod ](/visualization/OcclusionLineMod.png)
